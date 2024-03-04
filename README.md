@@ -1,1 +1,1 @@
-Projects I created and completed on the SQL Codecademy Course!
+# Lessons/Tasks/Projects I completed on the SQL Codecademy Course.
